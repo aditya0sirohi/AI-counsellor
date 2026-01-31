@@ -7,7 +7,7 @@ import {
   AlertTriangle, ThumbsUp
 } from 'lucide-react';
 
-const API_BASE_URL = "http://localhost:8000"; 
+const API_BASE_URL = "https://ai-counsellor-backend-oubz.onrender.com"; 
 const DEMO_USER_ID = 1;
 
 // --- HARDCODED TASKS (Guarantees they never disappear) ---
